@@ -286,6 +286,7 @@ footer a:hover {
     padding: 24px;
 }
 .endgame{
-    color: white;
+    color: rgb(94, 93, 93);
+    font-size: 1.5vh;
     padding: 15px 0px
 }
